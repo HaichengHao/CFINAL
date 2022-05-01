@@ -4,6 +4,6 @@
 > 2.try your **best** , like a **hamer**  
   
 - [x] keep  
-- []  give up  
+- [ ]  give up  
 
 
